@@ -1,0 +1,14 @@
+{
+  "name": "social-links-page",
+  "version": "1.0.0",
+  "description": "Front End Mentor Social Links Page",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/style.css --watch"
+  },
+  "author": "JoshuaAsistio",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
